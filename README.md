@@ -1,4 +1,6 @@
-![main](https://github.com/user-attachments/assets/d2a6c4e4-2bd4-4426-8aa6-ed9438e95e6d)![zagol](https://github.com/user-attachments/assets/0a2832f2-a5f1-49db-9f51-2d73480094a0)
+![zagol](https://github.com/user-attachments/assets/0a2832f2-a5f1-49db-9f51-2d73480094a0)
+
+![main](https://github.com/user-attachments/assets/652b9023-674a-4123-8e52-df6c996f95e3)
 
 1# - (tsy main) - [Скачать скин](https://github.com/HaCkErToP-png/Merami-Skins/releases/download/skin/-.NM.tsyNya.2.0.main.osk)
 
