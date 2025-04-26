@@ -12,7 +12,7 @@
 
 ![bocchi](https://github.com/user-attachments/assets/e965b12c-ad2b-4306-ae6d-cf68240ffd9b)
 
-4# - (tsy with hitsounds) - [Скачать скин]([https://github.com/HaCkErToP-png/Merami-Skins/releases/download/skin/-.NM.tsyNya.2.1.bocchi.osk](https://github.com/HaCkErToP-png/Merami-Skins/raw/refs/heads/main/-%20%20%20%20%20%20%20%20%20%E3%80%8ANM%E3%80%8B%20tsyNya%202.0%20hitsounds.osk))
+4# - (tsy with hitsounds) - [Скачать скин](https://github.com/HaCkErToP-png/Merami-Skins/raw/refs/heads/main/-%20%20%20%20%20%20%20%20%20%E3%80%8ANM%E3%80%8B%20tsyNya%202.0%20hitsounds.osk)
 
 ![hitsounds](https://github.com/user-attachments/assets/4ffc8ee9-06f1-4310-adc9-1b83278826a8)
 
