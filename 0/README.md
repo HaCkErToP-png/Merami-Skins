@@ -1,3 +1,5 @@
+![Описание картинки](https://github.com/HaCkErToP-png/Merami-Skins/blob/main/zagol.jpg)
+
 1# - (tsy main) - [Скачать скин](https://github.com/HaCkErToP-png/Merami-Skins/releases/download/skin/-.NM.tsyNya.2.0.main.osk)
 
 ![Описание картинки](https://github.com/HaCkErToP-png/Merami-Skins/blob/main/main.png)
