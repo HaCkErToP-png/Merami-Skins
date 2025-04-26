@@ -12,10 +12,14 @@
 
 ![bocchi](https://github.com/user-attachments/assets/e965b12c-ad2b-4306-ae6d-cf68240ffd9b)
 
-4# - (tsy whitebetaimproved (skin 2022)) - [Скачать скин](https://github.com/HaCkErToP-png/Merami-Skins/releases/download/skin/whitebetaimproved.osk)
+4# - (tsy with hitsounds) - [Скачать скин]([https://github.com/HaCkErToP-png/Merami-Skins/releases/download/skin/-.NM.tsyNya.2.1.bocchi.osk](https://github.com/HaCkErToP-png/Merami-Skins/raw/refs/heads/main/-%20%20%20%20%20%20%20%20%20%E3%80%8ANM%E3%80%8B%20tsyNya%202.0%20hitsounds.osk))
+
+![hitsounds](https://github.com/user-attachments/assets/4ffc8ee9-06f1-4310-adc9-1b83278826a8)
+
+5# - (tsy whitebetaimproved (skin 2022)) - [Скачать скин](https://github.com/HaCkErToP-png/Merami-Skins/releases/download/skin/whitebetaimproved.osk)
 
 ![whitebetaimproved](https://github.com/user-attachments/assets/eda15bcc-80da-4868-972c-43c984d99e55)
 
-5# - (tsy 1.4 (skin 2022)) - [Скачать скин](https://github.com/HaCkErToP-png/Merami-Skins/releases/download/skin/-.NM.tsyNya.1.4.osk)
+6# - (tsy 1.4 (skin 2022)) - [Скачать скин](https://github.com/HaCkErToP-png/Merami-Skins/releases/download/skin/-.NM.tsyNya.1.4.osk)
 
 ![1 4](https://github.com/user-attachments/assets/b61087ad-be48-4c89-9eb7-ac255de516aa)
