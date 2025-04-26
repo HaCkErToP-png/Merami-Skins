@@ -2,7 +2,7 @@
 
 # [tsy 2.0 hitsounds](https://github.com/HaCkErToP-png/Merami-Skins/releases/download/skin/-.NM.tsyNya.2.0.hitsounds.osk)
 
-![header](https://github.com/user-attachments/assets/307c0913-347c-444f-9624-2cf9a83d1234)
+![header](https://github.com/user-attachments/assets/f035a8ee-2f09-4736-8416-f0d6f189f8d0)
 
 
 # [tsy main](https://github.com/HaCkErToP-png/Merami-Skins/releases/download/skin/-.NM.tsyNya.2.0.main.osk)
