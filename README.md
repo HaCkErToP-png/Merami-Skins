@@ -22,4 +22,4 @@
 
 6# - (tsy 2.0 hitsounds) - [Скачать скин](https://github.com/HaCkErToP-png/Merami-Skins/releases/download/skin/-.NM.tsyNya.2.0.hitsounds.osk)
 
-![1 4](https://github.com/user-attachments/assets/b61087ad-be48-4c89-9eb7-ac255de516aa)
+![hitsounds](https://github.com/user-attachments/assets/88b98c39-dacc-48f7-81b0-aa62edd6a910)
